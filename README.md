@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on my personal Travel Record project<br>🤝 I’m looking for help with exploring and emphasizing Front-end<br>🌱 I’m currently learning Django Rest APIs<br>⚡ Fun fact : When I'm not coding, I love traveling. I've visited over 10 countries and counting! also I'm a football fan, I play in a local league in Germany
+🔭 I’m currently looking for a new role <br>🌱 I’m currently learning Django Rest APIs<br>⚡ Fun fact : When I'm not coding, I love traveling. I've visited over 10 countries and counting! also I'm a football fan, I play in a local league in Germany
 
 
 ## 🌐 Socials:
